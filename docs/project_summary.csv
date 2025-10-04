@@ -1,0 +1,18 @@
+File Type,Filename,Description,Purpose
+Core Tool,recon_society.py,Main reconnaissance framework with all modules,Primary executable tool
+Dependencies,requirements.txt,Python package requirements,Installation dependencies
+Installation,install.sh,Automated setup script,Easy installation process
+Testing,test_recon_society.py,Framework verification script,Quality assurance
+Documentation,README.md,Project overview and quick start,Primary documentation
+Documentation,USER_GUIDE.md,Comprehensive user guide,Detailed usage instructions
+Documentation,CHANGELOG.md,Version history,Release tracking
+Marketing,linkedin_posts.md,4 professional LinkedIn posts,Social media content
+Metadata,github_info.md,Repository information and tags,GitHub configuration
+Feature,Asset Discovery,"DNS, subdomain, port enumeration",Target identification
+Feature,Vulnerability Analysis,"SQLi, XSS, path traversal detection",Security assessment
+Feature,Parameter Discovery,Hidden parameter fuzzing,Attack surface expansion
+Feature,Endpoint Discovery,Directory and file enumeration,Content discovery
+Feature,Cloud Security,AWS S3 and Azure misconfiguration detection,Cloud assessment
+Feature,Reporting,JSON and HTML report generation,Results documentation
+Feature,Multi-threading,Concurrent scanning operations,Performance optimization
+Feature,Mr. Robot Theme,Hacker-aesthetic interface design,User experience
