@@ -1,0 +1,40 @@
+{
+    "version": "1.0.0",
+    "tool_info": {
+        "name": "ReconSociety",
+        "author": "kernelpanic",
+        "organization": "infosbios",
+        "description": "Advanced reconnaissance framework with comprehensive payloads"
+    },
+    "scanning": {
+        "threads": {
+            "subdomain_discovery": 50,
+            "port_scanning": 100,
+            "parameter_fuzzing": 20,
+            "endpoint_discovery": 25,
+            "vulnerability_testing": 10
+        },
+        "timeouts": {
+            "dns_timeout": 5,
+            "http_timeout": 10,
+            "port_timeout": 3
+        }
+    },
+    "payloads": {
+        "sql_injection_count": 32,
+        "xss_count": 25,
+        "path_traversal_count": 29,
+        "total_vulnerability_payloads": 86
+    },
+    "wordlists": {
+        "subdomain_entries": 296,
+        "parameter_entries": 260,
+        "endpoint_entries": 256,
+        "total_wordlist_entries": 812
+    },
+    "output": {
+        "default_format": "html_reporting",
+        "html_reporting": true,
+        "include_payload_stats": true
+    }
+}
