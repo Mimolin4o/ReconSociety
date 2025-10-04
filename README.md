@@ -17,6 +17,8 @@ Developed by **kernelpanic** | Product of **infosbios**
 
 ReconSociety is a comprehensive reconnaissance framework designed for security researchers, bug bounty hunters, and penetration testers. Unlike traditional tools that simply chain existing utilities, ReconSociety provides a unified approach to vulnerability discovery with fresh, original code implementations.
 
+<img width="784" height="818" alt="reconsociety-plan" src="https://github.com/user-attachments/assets/7d59b011-0e62-479f-ba63-69f9ab71e2f2" />
+
 ### ⭐ Key Features
 
 - **🔍 Unified Reconnaissance**: All-in-one approach to asset discovery and vulnerability detection
